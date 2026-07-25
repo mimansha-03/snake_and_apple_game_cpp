@@ -2,27 +2,29 @@
 
 A modern recreation of the classic **Snake** game built in **C++20** using **Raylib**.
 
+![C++](https://img.shields.io/badge/C%2B%2B-20-blue)
+![Raylib](https://img.shields.io/badge/Raylib-5.x-green)
+![CMake](https://img.shields.io/badge/CMake-3.16+-red)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
+
+Smooth animations • Modern UI • Difficulty Modes • Persistent High Scores
+
 Featuring smooth animations, a modern pixel-inspired interface, multiple difficulty levels, persistent high-score saving, and a clean object-oriented architecture, this project demonstrates modern C++ programming techniques while recreating one of the most iconic arcade games.
 
 ---
 
 ## 📸 Screenshots
+## 📸 Screenshots
 
-### Main Menu
+| Main Menu | Gameplay |
+|-----------|----------|
+| ![Main Menu](screenshots/main_screen.png) | ![Gameplay](screenshots/gameplay.png) |
 
-![Main Menu](screenshots/main_screen.png)
+| Pause | Game Over |
+|--------|-----------|
+| ![Pause](screenshots/paused.png) | ![Game Over](screenshots/game_over.png) |
 
-### Gameplay
-
-![Gameplay](screenshots/gameplay.png)
-
-### Pause Screen
-
-![Pause](screenshots/paused.png)
-
-### Game Over
-
-![Game Over](screenshots/game_over.png)
+*All screenshots are captured from the actual game.*
 
 ---
 
