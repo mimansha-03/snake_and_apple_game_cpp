@@ -14,7 +14,6 @@ Featuring smooth animations, a modern pixel-inspired interface, multiple difficu
 ---
 
 ## 📸 Screenshots
-## 📸 Screenshots
 
 | Main Menu | Gameplay |
 |-----------|----------|
